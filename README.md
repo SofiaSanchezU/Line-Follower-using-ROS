@@ -1,7 +1,7 @@
 # Line-Follower-using-ROS
 
-Code developed for "S. Sanchez, - Construction of a mobile robot that follows a line controlled by ROS ".
-Master's graduate "Calabria University".
+Code developed for "S. Sanchez, - Construction of a mobile robot that follows a line controlled by ROS ".  
+Master's graduate "Calabria University".  
 For any questions or suggestions write to sofysan.1993@gmail.com
 
 # Sumary.
